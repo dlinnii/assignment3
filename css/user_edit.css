@@ -1,0 +1,50 @@
+/* Back ground */
+#Page {
+    background-image: url("../images/black-background-wallpapers.jpg"); 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    padding: 10px; 
+    height: 100%; 
+}
+
+/* form text box */
+#name{
+	width: 60%;
+	border-radius: 5px;
+	height:40px;
+	
+}
+
+/* form text box */
+#userName{
+	width: 60%;
+	border-radius: 5px;
+	height:40px;
+}
+
+/* form text box */
+#password{
+	width: 60%;
+	border-radius: 5px;
+	height:40px;
+}
+
+/* labels on top of the box */
+label{
+	color: white;
+	font-size: 20px;
+}
+/* form update button */
+#update{
+	border-radius: 5px;
+	height:40px;
+}
+
+/* message apear after edit user */
+p{
+	color: yellow;
+	font-size:22px;
+	text-align: center;
+}
+
+

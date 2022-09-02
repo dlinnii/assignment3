@@ -1,0 +1,16 @@
+/*Back ground on Page index.php*/
+#Page {
+    background-image: url("../images/black-background-wallpapers.jpg");
+    background-repeat: no-repeat;   
+    background-size: cover; 
+    padding: 10px; 
+    height: 100%; 
+}
+
+/* paragraph */
+p{
+	color: red;
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+}

@@ -1,0 +1,68 @@
+/* Back ground */
+#Page {
+    background-image: url("../images/black-background-wallpapers.jpg"); 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    padding: 10px; 
+    height: 100%; 
+}
+
+/* form text box */
+#name{
+	width: 60%;
+	border-radius: 5px;
+	height:40px;
+	
+}
+
+/* form text box */
+#quantity{
+	width: 60%;
+	border-radius: 5px;
+	height:40px;
+}
+
+
+/* form text box */
+#description{
+	width: 60%;
+	border-radius: 5px;
+	height:40px;
+}
+
+/* form text box */
+#price{
+	width: 60%;
+	border-radius: 5px;
+	height:40px;
+}
+
+/* form image button */
+#image{
+	width:100px;
+	border-radius: 5px;
+	height:40px;
+}
+
+/* form update button */
+#update{
+	border-radius: 5px;
+	height:40px;
+}
+
+/* labels on top of the box */
+label{
+	color: white;
+	font-size: 20px;
+}
+
+/* message apear after edit product */
+p{
+	color: yellow;
+	font-size:22px;
+	text-align: center;
+}
+
+
+
+

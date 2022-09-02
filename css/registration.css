@@ -1,0 +1,21 @@
+/*Back ground  Login page : login.php */
+#LoginForm { /* background image for  login and registration form */
+    background-image: url("../images/blackRedBackground.jpg");    /*background image */
+    background-repeat: no-repeat;   /*background image will never repeat*/
+    height: 700px;   /*image height will be 900px*/
+}
+
+/*Register or Sign in Page ---registration.php---*/
+.login-form{
+	width: 350px;
+	margin: auto;
+	text-align: center;
+	padding-top: 100px;
+}
+
+/*login.php */
+.userReg{
+	color:white;
+}
+
+

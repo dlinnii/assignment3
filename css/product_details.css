@@ -1,0 +1,40 @@
+/* Back ground */
+#Page {
+    background-image: url("../images/black-background-wallpapers.jpg"); 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    padding: 10px; 
+    height: 100%; 
+}
+
+/* labels on top of the box */
+label{
+	color: white;
+	font-size: 20px;
+}
+
+/* message apear after purchase */
+p{
+	color: yellow;
+	font-size:22px;
+	text-align: center;
+}
+
+/* image */
+#img{
+	float:left;
+}
+
+/* form  buy button */
+#buy{
+	border-radius: 5px;
+	height:40px;
+	width: 20%;
+}
+
+/* form  quantity text box */
+#quantity{
+	width: 20%;
+	border-radius: 5px;
+	height:40px;
+}
